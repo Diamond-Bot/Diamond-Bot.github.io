@@ -12,5 +12,5 @@ jobs:
     - uses: actions/first-interaction@v1
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
-        issue-message: 'Oooh we see you have a issue. Dont be shy tell everything about it.'
-        pr-message: 'Make sure the message is descriptive short and sweet'
+        issue-message: 'Thanks for submiting a issue. We will fix it soon.'
+        pr-message: 'Thank you for making a pull request. We weill review it ASAP.'
